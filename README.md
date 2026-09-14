@@ -65,12 +65,6 @@ A collaborative web application created to support an animal adoption center.
 
 **Technologies:** Blazor, .NET 8, Identity, SQLite, GitHub
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D-4costa&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-4costa&layout=compact&hide_border=true)
-
 ## Let's Connect
 
 * LinkedIn: https://www.linkedin.com/in/danielle-acosta-601467338/
